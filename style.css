@@ -6,7 +6,6 @@ body {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
   background-color: #eae2b7;
-  magin: auto;
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -69,9 +68,15 @@ li a:link{
 
 #about{
   margin-bottom: 0px;
-  padding-bottom: 5px;
+  margin-top: 0px;
+  padding-top: 50px;
 }
 main{
   margin: auto;
   max-width: 600px;
+}
+
+.headline{
+  margin: 0px;
+  padding: 0px;
 }
